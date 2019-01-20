@@ -1,4 +1,4 @@
-# free-themes for Jekyll + Hugo
+# Free-themes for Jekyll + Hugo
 Now Days These Static Site Generators are Using and I am Here to Give a List of Jekyll and Hugo Themes
 
 Table of Contents
