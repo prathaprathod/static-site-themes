@@ -3,8 +3,8 @@ Now Days These Static Site Generators are Using and I am Here to Give a List of 
 
 Table of Contents
 =================
-   * [Jekyll](#jekyll)
-   * [Hugo](#hugo)
+   * [Jekyll](#jekyll-themes)
+   * [Hugo](#hugo-themes)
 
 
 ## Jekyll Themes
