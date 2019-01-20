@@ -5,7 +5,10 @@ Table of Contents
 =================
    * [Jekyll](#jekyll)
    * [Hugo](#hugo)
+
+
 ## Jekyll Themes
+  
   * [Affiliates Jekyll Theme](https://wowthemesnet.github.com/affiliates-jekyll-theme/) [Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) — Jekyll Theme is a blogging theme for affiliate marketers, built with Bootstrap 4, designed & developed by WowThemes.net.
   * [Agency Jekyll Theme](https://github.com/y7kim/agency-jekyll-theme) [Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) — Agency is a brilliant free Jekyll theme that would be perfect for a creative business landing page.
   * [Agus Makmun Jekyll Theme](https://github.com/agusmakmun/agusmakmun.github.io) [Demo](https://agusmakmun.github.io/) — Agus is a Responsive, simple blog theme with a fixed sidebar.
@@ -14,7 +17,8 @@ Table of Contents
     * [Beautiful Jekyll Theme](https://github.com/daattali/beautiful-jekyll) [Demo](http://deanattali.com/beautiful-jekyll/) — Beautiful Jekyll is a ready-to-use template to help you create an awesome website quickly. Perfect for personal sites, blogs, or simple project websites.
     
 ## Hugo Themes
-   * [Introduction Hugo Theme](https://github.com/vickylai/hugo-theme-introduction) [Demo](https://themes.gohugo.io/theme/hugo-theme-introduction/) — Minimal, single page, smooth scrolling theme for Hugo.simple.
+  
+  * [Introduction Hugo Theme](https://github.com/vickylai/hugo-theme-introduction) [Demo](https://themes.gohugo.io/theme/hugo-theme-introduction/) — Minimal, single page, smooth scrolling theme for Hugo.simple.
    * [Clean White Hugo Theme](https://github.com/zhaohuabing/hugo-theme-cleanwhite) [Demo](https://themes.gohugo.io/theme/hugo-theme-cleanwhite/) — CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme.
    * [Hero Hugo Theme](https://github.com/jugglerx/hugo-hero-theme) [Demo](https://themes.gohugo.io/theme/hugo-hero-theme/) — Hero is a multipurpose theme with fullscreen hero images and fullwidth sections. It contains content types for a business or portfolio site.
    * [Meghna Hugo Theme](https://github.com/themefisher/meghna-hugo) [Demo](https://themes.gohugo.io/theme/meghna-hugo/) — Hugo port of the Themefisher’s Meghna Template.
