@@ -5,6 +5,7 @@ Table of Contents
 =================
    * [Jekyll](#jekyll-themes)
    * [Hugo](#hugo-themes)
+   * [Hexo](#hexo-themes)
 
 
 ## Jekyll Themes
@@ -24,3 +25,9 @@ Table of Contents
    * [Meghna Hugo Theme](https://github.com/themefisher/meghna-hugo) [Demo](https://themes.gohugo.io/theme/meghna-hugo/) — Hugo port of the Themefisher’s Meghna Template.
    * [Dot Hugo Theme](https://gethugothemes.com/) [Demo](https://themes.gohugo.io/theme/dot-hugo-documentation-theme/) — Dot, A documentation theme powered by hugo.
    
+## Hexo Themes
+   * [A-Boy](https://github.com/huweihuang/hexo-theme-huweihuang) [Demo](https://www.huweihuang.com/) — A Clear and Light Theme for Hexo.
+   * [A-RSnippet](https://github.com/huyingjie/hexo-theme-A-RSnippet) [Demo](http://arsnippet.yingjiehu.com/) — A beautiful and comprehensive responsive theme for Hexo. The goal is to achieve as many functionalities as possible.
+   * [ANTIQUITY](https://github.com/yiluyanxia/hexo-theme-antiquity) [Demo](https://yiluyanxia.github.io/) — A Chinese antiquity theme for Hexo.
+   * [ARIA](https://github.com/yiluyanxia/hexo-theme-antiquity) [Demo](https://sh.alynx.xyz/) — Inspired by Kalafina's song ARIA.
+   * [Aath](https://github.com/lewis-geek/hexo-theme-Aath) [Demo](http://lewis.suclub.cn/) — A hexo theme inspired by zhihu and juejin.
